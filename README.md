@@ -7,7 +7,7 @@
 
 Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建於開源 simple I/O 介面板，並具有使用類似 Java、C 語言的Processing/Wiring 開發環境。
 
-![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
+![image](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/Arduino%20logo.PNG)
 
 來源網址:https://zh.wikipedia.org/wiki/Arduino
 
