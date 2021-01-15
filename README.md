@@ -17,7 +17,7 @@ Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建�
 
 1.雙LED燈交替閃爍
 
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/8WIn9E76Sh4)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/Double%20LED.jpg)](https://youtu.be/8WIn9E76Sh4)
 
 2.按鈕開燈
 
