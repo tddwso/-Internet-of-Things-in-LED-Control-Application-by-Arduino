@@ -25,7 +25,7 @@ Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建�
 
 3.序列埠輸出
 
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/PhM16HXyF04)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/COM.PNG)](https://youtu.be/PhM16HXyF04)
 
 
 
