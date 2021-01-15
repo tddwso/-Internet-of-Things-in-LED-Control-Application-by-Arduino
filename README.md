@@ -11,7 +11,7 @@ Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建�
 
 來源網址:https://zh.wikipedia.org/wiki/Arduino
 
-## 實際測試結果
+## 成果展示
 
 實作影片(以下圖片為Youtube影片連結)
 
@@ -21,7 +21,7 @@ Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建�
 
 2.按鈕開燈
 
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/0v25Pptdhe4)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/Button.jpg)](https://youtu.be/0v25Pptdhe4)
 
 3.序列埠輸出
 
