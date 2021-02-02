@@ -29,7 +29,7 @@ Arduino: 使用 Atmel AVR 單片機，採用開源的軟硬體平台，構建�
 
 4.類比訊號控制燈泡亮度
 
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/COM.PNG)](https://youtu.be/SvDfhI4IXkk)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Internet-of-Things-in-LED-Control-Application-by-Arduino/blob/main/%E9%A1%9E%E6%AF%94%E8%A8%8A%E8%99%9F.PNG)](https://youtu.be/SvDfhI4IXkk)
 
 
 
