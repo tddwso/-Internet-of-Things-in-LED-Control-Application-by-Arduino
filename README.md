@@ -1,7 +1,7 @@
 # Internet of Things in LED Control Application by Arduino
 
 ## 預計完成目標:
-以物聯網在LED控制應用。
+以物聯網的控制應用。
 
 ## 使用環境:
 
